@@ -1,4 +1,4 @@
-# Project: Name TBD
+# Project: Exercise Routine Analyzer
 
 ### Project Description
 
